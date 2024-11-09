@@ -6,6 +6,6 @@ This is the replicated landing page of https://phemmyblaze.github.io/Blaze-Tours
 
 -- Hyper Text Markup Language {HTML}, for the landing page structuring.
 
--- Cascading Style Sheet {CSS}, for beautifiction/styling.
+-- Cascading Style Sheet {CSS}, for beautification/styling.
 
 -- Bootstrap 
